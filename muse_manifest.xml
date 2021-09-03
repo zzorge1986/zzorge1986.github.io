@@ -1,47 +1,23 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ZZZ2.RU" resolutions="1x" timestamp="1630502333347">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://itarara.github.io" resolutions="1x" timestamp="1630693968498">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_______-a.css" crc="448574350" ref="index:новости:фото-и-видео:контакты:альбомы"/>
-    <file name="index.css" crc="3795280147" ref="index"/>
-    <file name="_______.css" crc="4243979175" ref="новости"/>
-    <file name="____-_-_____.css" crc="3794943962" ref="фото-и-видео"/>
-    <file name="________.css" crc="4124549453" ref="контакты"/>
-    <file name="_______1.css" crc="4122467834" ref="альбомы"/>
+    <file name="site_global.css" crc="4038565194"/>
+    <file name="master_______-a.css" crc="3988590560" ref="index:list01:list04:list02:list03"/>
+    <file name="index.css" crc="3934797375" ref="index"/>
+    <file name="list01.css" crc="3921383019" ref="list01"/>
+    <file name="list04.css" crc="3901009870" ref="list04"/>
+    <file name="list02.css" crc="476733272" ref="list02"/>
+    <file name="list03.css" crc="280463633" ref="list03"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:новости:альбомы:фото-и-видео:контакты"/>
-    <file name="museutils.js" crc="340535759" ref="index:новости:альбомы:фото-и-видео:контакты"/>
-    <file name="whatinput.js" crc="86476730" ref="index:новости:альбомы:фото-и-видео:контакты"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:новости:альбомы:фото-и-видео:контакты"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index:новости:альбомы:фото-и-видео:контакты"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:новости:альбомы:фото-и-видео:контакты"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:новости:альбомы:фото-и-видео:контакты"/>
-    <file name="require.js" crc="7928878" ref="index:новости:альбомы:фото-и-видео:контакты"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:list01:list02:list03:list04"/>
+    <file name="museutils.js" crc="340535759" ref="index:list01:list02:list03:list04"/>
+    <file name="whatinput.js" crc="86476730" ref="index:list01:list02:list03:list04"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:list01:list02:list03:list04"/>
+    <file name="require.js" crc="7928878" ref="index:list01:list02:list03:list04"/>
   </folder>
-  <folder name="images">
-    <file name="favicon.ico" crc="4023444482" ref="index"/>
-    <file name="лого.gif" crc="56252935" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="фото.gif" crc="4280934438" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="лого-2.gif" crc="402308899" seo="true" ref="новости">
-      <caption webpage="новости" alt=""/>
-    </file>
-    <file name="лого-3.gif" crc="3838080435" seo="true" ref="альбомы">
-      <caption webpage="альбомы" alt=""/>
-    </file>
-    <file name="лого-4.gif" crc="4002874520" seo="true" ref="фото-и-видео">
-      <caption webpage="фото-и-видео" alt=""/>
-    </file>
-    <file name="лого-5.gif" crc="3935760536" seo="true" ref="контакты">
-      <caption webpage="контакты" alt=""/>
-    </file>
-  </folder>
-  <file name="index.html" crc="134087096" seo="true" mt="1436991713427" redirect="true"/>
-  <file name="новости.html" crc="3765996121" seo="true" mt="1436990716993" redirect="true"/>
-  <file name="альбомы.html" crc="4185469034" seo="true" mt="1436990717002" redirect="true"/>
-  <file name="фото-и-видео.html" crc="220981504" seo="true" mt="1436990717006" redirect="true"/>
-  <file name="контакты.html" crc="487663194" seo="true" mt="1436990717013" redirect="true"/>
+  <file name="index.html" crc="260061500" seo="true" mt="1630693929591" redirect="true"/>
+  <file name="list01.html" crc="3874413867" seo="true" mt="1630693836698" redirect="true"/>
+  <file name="list02.html" crc="194355627" seo="true" mt="1630693882392" redirect="true"/>
+  <file name="list03.html" crc="3853808184" seo="true" mt="1630693952167" redirect="true"/>
+  <file name="list04.html" crc="404809347" seo="true" mt="1630693963126" redirect="true"/>
 </manifest>
